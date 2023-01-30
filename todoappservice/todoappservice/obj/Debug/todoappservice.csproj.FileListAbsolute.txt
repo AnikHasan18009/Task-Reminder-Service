@@ -1,0 +1,10 @@
+C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe.config
+C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.pdb
+C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\obj\Debug\todoappservice.ProjectInstaller.resources
+C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\obj\Debug\todoappservice.Service1.resources
+C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\obj\Debug\todoappservice.csproj.GenerateResource.cache
+C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\obj\Debug\todoappservice.csproj.CoreCompileInputs.cache
+C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\obj\Debug\todoappservice.exe
+C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\obj\Debug\todoappservice.pdb
+C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\obj\Debug\todoappservice.csprojAssemblyReference.cache

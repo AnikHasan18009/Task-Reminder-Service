@@ -1,0 +1,100 @@
+﻿Installing assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+   logtoconsole = 
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+   logtoconsole = 
+Installing service TodoListApp...
+Service TodoListApp has been successfully installed.
+Creating EventLog source TodoListApp in log Application...
+Committing assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+Removing EventLog source TodoListApp.
+Service TodoListApp is being removed from the system...
+Service TodoListApp was successfully removed from the system.
+Attempt to stop service TodoListApp.
+Installing assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+   logtoconsole = 
+Installing service TodoListApp...
+Service TodoListApp has been successfully installed.
+Creating EventLog source TodoListApp in log Application...
+Committing assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+Removing EventLog source TodoListApp.
+Service TodoListApp is being removed from the system...
+Service TodoListApp was successfully removed from the system.
+Installing assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+   logtoconsole = 
+Installing service TodoListApp...
+Service TodoListApp has been successfully installed.
+Creating EventLog source TodoListApp in log Application...
+Committing assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+   logtoconsole = 
+Installing service TodoListApp...
+Creating EventLog source TodoListApp in log Application...
+Rolling back assembly 'C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.InstallLog
+   assemblypath = C:\Users\TACHLAND\source\repos\todoappservice\todoappservice\bin\Debug\todoappservice.exe
+   logtoconsole = 
+Restoring event log to previous state for source TodoListApp.

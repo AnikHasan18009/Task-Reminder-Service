@@ -1,0 +1,14 @@
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\obj\Debug\todolistapp.csprojAssemblyReference.cache
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\obj\Debug\todolistapp.Form1.resources
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\obj\Debug\todolistapp.Properties.Resources.resources
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\obj\Debug\todolistapp.csproj.GenerateResource.cache
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\obj\Debug\todolistapp.csproj.CoreCompileInputs.cache
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\bin\Debug\todolistapp.exe.config
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\bin\Debug\todolistapp.exe
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\bin\Debug\todolistapp.pdb
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\obj\Debug\todolistapp.exe
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\obj\Debug\todolistapp.pdb
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\obj\Debug\todolistapp.Form2.resources
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\obj\Debug\todolistapp.Form3.resources
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\obj\Debug\todolistapp.Form4.resources
+C:\Users\TACHLAND\source\repos\todolistapp\todolistapp\obj\Debug\todolistapp.Form5.resources
